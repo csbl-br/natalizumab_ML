@@ -9,7 +9,7 @@ The approach uses machine learning techniques, specifically Random Forest classi
 The analysis is organized into three scripts that should be run in sequence:
 
 1. **grid_search_tuning.py**  
-   Performs hyperparameter tuning with `GridSearchCV` on a RandomForest classifier and saves the best parameters.
+   Performs hyperparameter tuning with `GridSearchCV` on a RandomForest classifier and saves the best parameters in the file `parameters/selected_grid_search_parameters.tsv`.
 
 2. **feature_selection.py**  
    Selects the top 20 most important features using the best model parameters and saves them to `results/new_features_selected.txt`.
