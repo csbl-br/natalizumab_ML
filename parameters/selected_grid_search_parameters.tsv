@@ -1,0 +1,2 @@
+classifier__criterion	classifier__max_depth	classifier__max_features	classifier__n_estimators	preprocessor__num__with_mean
+gini	4	log2	200	True

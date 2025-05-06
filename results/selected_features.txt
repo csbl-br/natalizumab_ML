@@ -1,0 +1,20 @@
+488_morpho Profile 3/5 SER-Bright - Mean per Well
+488_morpho Profile 2/5 SER-Bright - Mean per Well
+488_morpho Profile 3/5  - Mean per Well
+647_morpho Symmetry 04 SER-Dark - Mean per Well
+Nucleus Area [µm²] - Mean per Well
+647_morpho Symmetry 14 SER-Spot - Mean per Well
+488_morpho Profile 1/5 SER-Dark - Mean per Well
+488_morpho Symmetry 05 SER-Bright - Mean per Well
+488_morpho Profile 2/5  - Mean per Well
+647_morpho Symmetry 05 SER-Dark - Mean per Well
+488_morpho Profile 2/5 SER-Saddle - Mean per Well
+488_morpho Symmetry 14 SER-Dark - Mean per Well
+488_morpho Symmetry 03  - Mean per Well
+488_morpho Axial Length Ratio  - Mean per Well
+647_morpho Profile 5/5 SER-Hole - Mean per Well
+647_morpho Symmetry 02 SER-Bright - Mean per Well
+488_morpho Symmetry 05 SER-Saddle - Mean per Well
+488_morpho Symmetry 04 SER-Bright - Mean per Well
+488_morpho Profile 2/5 SER-Edge - Mean per Well
+488_morpho Profile 5/5 SER-Hole - Mean per Well
